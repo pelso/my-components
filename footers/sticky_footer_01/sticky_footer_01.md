@@ -1,0 +1,1 @@
+Sticky footer version 1 from CodeBerry.
